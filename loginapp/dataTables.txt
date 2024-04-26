@@ -1,0 +1,19 @@
+DATA | FROM DEVICE
+-device id
+-time stamp
+-gas resistance
+-temperature
+-pressure
+-humidity
+-GPS
+-IAQ
+-CO2
+-breath VOC
+
+
+DATA | SIGN IN
+-name
+-phone
+-email
+-password
+-device id

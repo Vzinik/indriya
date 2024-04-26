@@ -1,0 +1,6 @@
+.git
+.gitignore
+Dockerfile
+env/
+__pycache__/
+dataTables.txt
